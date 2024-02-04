@@ -33,6 +33,6 @@
   ></script>
   ```
 
-- Push the file to Github and paste the Github link on [jsDelivr](https://www.jsdelivr.com/github). It will give you a link to use in your Webflow project. Note that the file will be cached for 7 days. To update the file, you will need to change the version number in the link.
+- Push the file to Github and paste the Github link on [jsDelivr](https://www.jsdelivr.com/github). It will give you a link to use in your Webflow project. Note that the file will be cached for 7 days. To update the file, you will need to purge the cache - <https://www.jsdelivr.com/tools/purge>.
 
 - Look into alternative CDN options like [unpkg](https://unpkg.com/), [Cloudflare](https://www.cloudflare.com/), etc.
