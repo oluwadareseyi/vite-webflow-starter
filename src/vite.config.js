@@ -1,12 +1,8 @@
 export default {
   root: "src",
   server: {
-    host: "localhost",
     cors: "*",
-    hmr: {
-      host: "localhost",
-      protocol: "ws",
-    },
+    hmr: {},
   },
   build: {
     minify: true,

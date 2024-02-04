@@ -3,4 +3,4 @@ import { showBody } from "./animations/starter";
 
 showBody();
 
-console.log("Hello, Viteee!");
+console.log("Hello, Vite!");
