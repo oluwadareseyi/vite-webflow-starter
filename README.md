@@ -7,7 +7,7 @@
 
 1. Clone this repo.
 2. Go to [Codesandbox](https://codesandbox.io/) and import the cloned repo.
-3. Codesandbox will prompt you to install the dependencies and start the server in development mode.
+3. Codesandbox will prompt you to install the dependencies during the environment setup and start the server in development mode.
 4. Go to your Webflow project and add the following code to the head of your project:
 
   ```html
