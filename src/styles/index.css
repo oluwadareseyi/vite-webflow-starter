@@ -2,3 +2,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+[data-item="hero-text"] {
+  overflow: hidden;
+  color: var(--primary);
+}
