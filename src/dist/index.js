@@ -1,4 +1,4 @@
-(function(se){typeof define=="function"&&define.amd?define(se):se()})(function(){"use strict";var se=document.createElement("style");se.textContent=`body{margin:0;padding:0}[data-item=hero-text]{overflow:hidden;color:var(--primary)}
+(function(se){typeof define=="function"&&define.amd?define(se):se()})(function(){"use strict";var se=document.createElement("style");se.textContent=`body{margin:0;padding:0}[data-item=hero-text]{overflow:hidden;color:var(--primary);font-size:10rem}
 `,document.head.appendChild(se);function yt(a){if(a===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return a}function Ir(a,t){a.prototype=Object.create(t.prototype),a.prototype.constructor=a,a.__proto__=t}/*!
  * GSAP 3.12.5
  * https://gsap.com
