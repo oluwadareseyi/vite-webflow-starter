@@ -24,7 +24,7 @@
 
 ### Places to host your `index.js` file
 
-- You can upload the file to your Webflow project and link to it. You have to convert the file to a `.txt` file before uploading and then link to it. This is because Webflow doesn't allow you to upload `.js` files. You should replace the head code with the link yto the file as shown below:
+- You can upload the file to your Webflow project and link to it. You have to convert the file to a `.txt` file before uploading and then link to it. This is because Webflow doesn't allow you to upload `.js` files. You should replace the head code with the link to the file as shown below:
 
   ```html
   <script
