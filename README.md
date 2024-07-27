@@ -29,7 +29,7 @@
   ```html
   <script
   type="text/javascript"
-  src="https://uploads-ssl.webflow.com/${hash}/index.js.txt"
+  src="https://webflow-asset-url.js.txt"
   ></script>
   ```
 
